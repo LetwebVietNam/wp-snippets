@@ -1,3 +1,3 @@
-# wp-snippets
+# LetWeb Team VietNam
 
-Just some helpful code snippets in WordPress development process :)
+Just some helpful code snippets in WordPress development process. See more in "Issues".
